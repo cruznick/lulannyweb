@@ -1,0 +1,9 @@
+{
+  "name": "lulannyweb",
+  "version": "1.0.0",
+  "description": "Web Dev for artist Lulanny",
+  "main": "index.js",
+  "repository": "https://github.com/cruznick/lulannyweb.git",
+  "author": "Benjamin J. Martinez <benjaminjmtz@gmail.com>",
+  "license": "MIT"
+}
